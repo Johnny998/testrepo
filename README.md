@@ -1,1 +1,2 @@
 kommit mesič
+edit fajl
