@@ -1,2 +1,1 @@
-testrepo
-novy komit
+kommit mesič
